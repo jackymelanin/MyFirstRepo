@@ -1,1 +1,2 @@
- This course has taught me a lot about Git and GitHub. I have learned how to create branches, make pull requests, and collaborate with others.
+What I have learned from this course
+This course has taught me a lot about Git and GitHub. I have learned how to create branches, make pull requests, and collaborate with others.
